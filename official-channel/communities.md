@@ -1,6 +1,6 @@
 # Communities
 
-**\[Official] Luna Rush Group:**&#x20;
+**\[Official] MCC Group:**&#x20;
 
 **Official News Channel**:
 
