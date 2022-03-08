@@ -7,9 +7,9 @@
 * [Team](team.md)
 * [Our Partners](our-partners.md)
 
-## Melham Metaverse
+## MCC Metaverse
 
-* [Roadmap to Melham Metaverse](melham-metaverse/roadmap-to-melham-metaverse.md)
+* [Roadmap to MCC](mcc-metaverse/roadmap-to-mcc.md)
 
 ## Gameplay
 
