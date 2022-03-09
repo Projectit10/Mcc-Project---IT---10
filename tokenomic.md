@@ -8,6 +8,8 @@ The total supply of ALN is 350,000,000 tokens
 
 **ALN contract address (BSC): not yet**
 
+{% embed url="https://www.figma.com/file/SgbMn3PfCQbIJq2wrNwxoD/ADE-FE" %}
+
 ## Token Allocation
 
 ![](.gitbook/assets/chart.png)
