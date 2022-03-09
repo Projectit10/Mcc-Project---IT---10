@@ -6,4 +6,4 @@ description: The roadmap will be updated based on product and market situation.
 
 In such a rapidly growing world as the blockchain game market, any plan can soon be obsolete so we only list the features we intend to implement for the purpose of getting more views easily.
 
-![](.gitbook/assets/coinswap-latest-app-update-and-roadmap.jpeg)
+![](.gitbook/assets/Roadmap.png)
