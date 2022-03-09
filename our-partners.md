@@ -2,7 +2,11 @@
 
 ## Technology
 
+![](.gitbook/assets/6.png)
+
 ## Investors & Partners
+
+![](.gitbook/assets/7.png)
 
 ## Looking for Partnership?
 
