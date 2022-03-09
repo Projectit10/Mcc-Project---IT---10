@@ -4,7 +4,7 @@
 
 ![](.gitbook/assets/6.png)
 
-## Investors & Partners
+## Partners & Investors
 
 ![](.gitbook/assets/7.png)
 
