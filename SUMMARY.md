@@ -14,6 +14,15 @@
 ## Gameplay
 
 * [Story](gameplay/story.md)
+* [Warriors](gameplay/warriors/README.md)
+  * [Sinag](gameplay/warriors/sinag.md)
+  * [Lawin](gameplay/warriors/lawin.md)
+* [Build Warrior](gameplay/build-warrior/README.md)
+  * [Rarity](gameplay/build-warrior/rarity.md)
+* [Gameplay](gameplay/gameplay.md)
+* [Land](gameplay/land.md)
+* [Guild](gameplay/guild.md)
+* [Metaverse](gameplay/metaverse.md)
 
 ## Economy
 
