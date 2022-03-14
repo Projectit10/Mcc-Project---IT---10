@@ -12,7 +12,7 @@ The total supply of ALN is 350,000,000 tokens
 
 ## Token Allocation
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQinw_pIbobItBKQRuLe_JtU3ogN9quFUmTokh0YHHze02r6NU5hnjASWEWszzMTqYp-hxrR6C0phzR/pubhtml?gid=1487249623&single=true" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQinw_pIbobItBKQRuLe_JtU3ogN9quFUmTokh0YHHze02r6NU5hnjASWEWszzMTqYp-hxrR6C0phzR/pubhtml?gid=164161868&single=true" %}
 
 ## **Token Allocation Schedule**
 
