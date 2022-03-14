@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MCC Official](README.md)
+* [Mythic Legion: Uprising Official](README.md)
 * [Whitepaper](whitepaper.md)
 * [Tokenomic](tokenomic.md)
 * [Roadmap](roadmap.md)
@@ -9,7 +9,7 @@
 
 ## MCC Metaverse
 
-* [Roadmap to MCC](mcc-metaverse/roadmap-to-mcc.md)
+* [Roadmap to Mythic Legion: Uprising](mcc-metaverse/roadmap-to-mythic-legion-uprising.md)
 
 ## Gameplay
 

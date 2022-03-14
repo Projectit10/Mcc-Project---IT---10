@@ -2,7 +2,7 @@
 
 ## Token ALON
 
-Alon Token (ALN) is the governance token of MCC issued on Binance Smart Chain
+Alon Token (ALN) is the governance token of Mythic Legion: Uprising issued on Binance Smart Chain
 
 The total supply of ALN is 350,000,000 tokens
 
