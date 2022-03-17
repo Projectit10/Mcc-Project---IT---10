@@ -15,8 +15,11 @@
 
 * [Mythic Legion: The Genesis](gameplay/mythic-legion-the-genesis.md)
 * [Warriors](gameplay/warriors/README.md)
-  * [Sinag](gameplay/warriors/sinag.md)
-  * [Lawin](gameplay/warriors/lawin.md)
+  * [Hitter](gameplay/warriors/hitter.md)
+  * [Slayer](gameplay/warriors/slayer.md)
+  * [Sorcerer](gameplay/warriors/sorcerer.md)
+  * [Warrior](gameplay/warriors/warrior.md)
+  * [Defender](gameplay/warriors/defender.md)
 * [Build Warrior](gameplay/build-warrior/README.md)
   * [Rarity](gameplay/build-warrior/rarity.md)
 * [Gameplay](gameplay/gameplay.md)
