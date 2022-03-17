@@ -1,6 +1,6 @@
 # Communities
 
-**\[Official] MCC Group:**&#x20;
+**\[Official] MLU Group:**&#x20;
 
 **Official News Channel**:
 
