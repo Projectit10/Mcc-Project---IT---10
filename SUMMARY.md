@@ -13,7 +13,7 @@
 
 ## Gameplay
 
-* [Story](gameplay/story.md)
+* [Mythic Legion: The Genesis](gameplay/mythic-legion-the-genesis.md)
 * [Warriors](gameplay/warriors/README.md)
   * [Sinag](gameplay/warriors/sinag.md)
   * [Lawin](gameplay/warriors/lawin.md)
