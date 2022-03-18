@@ -6,10 +6,12 @@ description: Core value of connecting people through the entertainment universe
 
 ## Production Team
 
-![](<.gitbook/assets/Team Leaders.png>)
+![](.gitbook/assets/Mentor.jpg)
 
-![](<.gitbook/assets/Team Members.png>)
+![](.gitbook/assets/Leaders.jpg)
 
-![](<.gitbook/assets/Team Members (2).png>)
+![](<.gitbook/assets/Team Members.jpg>)
 
-![](<.gitbook/assets/Team Members (3).png>)
+![](<.gitbook/assets/Team Members (2).jpg>)
+
+![](<.gitbook/assets/Team Members (3).jpg>)
